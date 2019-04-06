@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-https://glacial.gitlab.io/2001-marbenscorp/
+https://marceloglacial.github.io/2001-marbenscorp/front-end/
 
 ## Screnshot
 
